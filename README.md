@@ -1,36 +1,27 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Pomodoro Timer Application ⏲️🍅
 
-## Getting Started
+Welcome to the **Pomodoro Timer Application**, part of my **30 Days 30 Projects Challenge**. This app helps users manage their time effectively by allowing them to set work and break durations, making it easier to follow the Pomodoro technique.
 
-First, run the development server:
+## Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Set Work and Break Durations**: Customize your work and break periods based on your preferences.
+- **Start, Pause, and Reset the Timer**: Control the timer with start, pause, and reset functionalities.
+- **Session Display**: Shows the current session (work or break) and the remaining time for that session.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Tech Stack
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Next.js**: A React framework for building full-stack web applications.
+- **React**: A JavaScript library for building interactive user interfaces.
+- **Tailwind CSS**: A utility-first CSS framework for quick styling and responsive design.
+- **shadcn/ui**: Beautifully designed Tailwind CSS components for a polished and modern UI.
+- **Vercel**: Used for deploying the Next.js application, ensuring fast and reliable hosting.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Live Demo
 
-## Learn More
+Check out the live demo of the Pomodoro Timer Application on Vercel:
 
-To learn more about Next.js, take a look at the following resources:
+[Live Demo](https://pomodoro-timer-app-five.vercel.app/)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Screenshot
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+![Pomdorn-timer](https://github.com/user-attachments/assets/c1160f0b-a78f-47c6-b425-d19569c7a9e8)
